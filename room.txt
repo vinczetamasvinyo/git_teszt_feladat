@@ -1,2 +1,4 @@
 Szoba1
 szoba2 hozzáadása lokálisan.
+remote branch ozzáír.
+
