@@ -1,1 +1,3 @@
 Feature branchben beleírok valamit.
+Min-ben beleírok valamit
+
